@@ -1,0 +1,141 @@
+Bibliography
+Community Tracking Study Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 161. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. (author unknown), "An Update on the Community Tracking Study: A Focus on
+the Changing Health System." Issue Brief. 18, Washington, DC: Center for
+Studying Health System Change, Feb 1999.
+Full text: http://www.hschange.com/CONTENT/63/
+Full text PDF: http://www.hschange.com/CONTENT/63/63.pdf
+
+2. (author unknown), "The Community Tracking Study: A Focus on Change in
+the Health Care System." Issue Brief. 1, Washington, DC: Center for
+Studying Health System Change, Aug 1996.
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+3. Blewett, Lynn A.; Davern, Michael, "Meeting the need for state-level
+estimates of health insurance coverage: Use of state and federal survey
+data." Health Services Research. Jun 2006, 41, (31), 946 - 975. DOI:
+10.1111/j.1475-6773.2006.00543.x
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+4. Bolyard, Wendy Lynn, "Identifying Factors That Influence Gender
+Disparities in Physician Income: Implications for Public Policy."
+Dissertation, University of Central Florida, 2006.
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+5. Boulis, Ann K.; Jacobs, Jerry A., The Changing Face of Medicine: Women
+Doctors and the Evolution of Health Care in America. Ithaca, NY: ILR Press,
+2008.
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+6. Casalino Lawrence P.; November, Elizabeth A; Berenson Robert A.; Pham,
+Hoangmai H., "Hospital-physician relations: Two tracks and the decline of
+the voluntary medical staff model." Health Affairs. Sep/Oct 2008, 27, (5),
+1305 - 1314. DOI: 10.1377/hlthaff.27.5.1305
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+7. Christianson, Jon B.; Ginsburg, Paul B.; Draper, Debra A., "The
+transition from managed care to consumerism: A community-level status
+report." Health Affairs. 2008, 27, (5), 1362 - 1370. DOI:
+10.1377/hlthaff.27.5.1362
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+8. Cunningham, Peter; Fell, Laurie; Stark, Lucy, "Safety-net providers in
+some US communities have increasingly embraced coordinated care models."
+Health Affairs. Aug 2012, 31, (8), 1698 - 1707. DOI:
+10.1377/hlthaff.2011.1270
+Full text: http://www.hschange.com/CONTENT/80/
+Full text PDF: http://www.hschange.com/CONTENT/80/80.pdf
+
+9. Fronstin, Paul, "Counting the Uninsured: A Comparison of National
+Surveys." EBRI Issue Brief. 225, Washington, DC: Employee Benefit Research
+Institute, Sep 2000.
+Abstract: http://www.ebri.org/ibex/ib225.htm
+
+10. Kemper, Peter; Blumenthal, David; Corrigan, Janet M.; Cunningham, Peter
+J.; Felt, S.M.; Grossman, J.M.; Kohn, Linda T.; Metcalf, Charles E.; St.
+Peter, R.F.; Strouse, Richard C.; Ginsburg, P.B., "The design of the
+Community Tracking Study: A longitudinal study of health system change and
+its effects on people." Inquiry (Rochester): The Journal of Health Care
+Organization, Provision and Financing. Sum 1996, 33, (2), 195 - 206.
+Abstract: http://www.hschange.org/CONTENT/150/
+
+11. Lynn, Jonanne; Staube, Barry M.; Bell, Karen M.; Jencks, Stephen F.;
+Kambic, Robert T., "Using population segmentation to provide better health
+care for all: The 'bridges to health' model." Milbank Quarterly. Jun 2007,
+85, (2), 185 - 208. DOI: 10.1111/j.1468-0009.2007.00483.x
+Abstract: http://www.hschange.org/CONTENT/150/
+
+12. Morgan, Perri A.; Strand, Justine; Østbye, Truls; Albanese, Mark A.,
+"Missing in action: Care by physician assistants and nurse practitioners in
+national health surveys." Health Services Research. Oct 2007, 42, (5), 2022
+- 2037. DOI: 10.1111/j.1475-6773.2007.00700.x
+Abstract: http://www.hschange.org/CONTENT/150/
+
+13. Pham, Hoangmai H.; Grossman, Joy M.; Cohen, Genna; Bodenheimer, Thomas,
+"Hospitalists and care transitions: The divorce of inpatient and outpatient
+care." Health Affairs. Sep/Oct 2008, 27, (5), 1315 - 1327. DOI:
+10.1377/hlthaff.27.5.1315
+Abstract: http://www.hschange.org/CONTENT/150/
+
+14. Qin, Xuezheng, "The Health Care Safety Net and Health Insurance: A
+Theoretical and Empirical Investigation." Dissertation, State University of
+New York at Buffalo, 2009.
+Abstract: http://www.hschange.org/CONTENT/150/
+
+15. Reif, Sharon; Horgan, Constance M.; Garnick, Deborah W.; McLellan,
+Deborah L., "Systems-level smoking cessation activities by private health
+plans." Preventing Chronic Disease. Jan 2011, 8, (1),.
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+16. Resneck Jr., Jack S.; Lipton, Shira; Pletcher, Mark, J., "Short wait
+times for patients seeking cosmetic botulinum toxin appointments with
+dermatologists." Journal of the American Academy of Dermatology. Dec 2007,
+57, (6), 985 - 989. DOI: 10.1016/j.jaad.2007.07.020
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+17. Resneck, Jack, Jr.; Pletcher, Mark J.; Lozano, Nia, "Medicare,
+medicaid, and access to dermatologists: The effect of patient insurance on
+appointment access and wait times." Journal of the American Academy of
+Dermatology. Jan 2004, 50, (1), 85 - 92. DOI: 10.1016/S0190-9622(03)02463-0
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+18. Rittenhouse, Diane R.; Thom, David H.; Schmittdiel, Julie A.,
+"Developing a policy-relevant research agenda for the patient-centered
+medical home: A focus on outcomes." Journal of General Internal Medicine.
+2010, 25, (6), 593 - 600. DOI: 10.1007/s11606-010-1289-x
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+19. Tsang, Matthew W.; Resneck, Jack S., Jr., "Even patients with changing
+moles face long dermatology appointment wait-times: A study of simulated
+patient calls to dermatologists." Journal of the American Academy of
+Dermatology. Jul 2006, 55, (1), 54 - 58. DOI: 10.1016/j.jaad.2006.04.001
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+20. Wright, D. Brad; Scarborough, John E., "Characterizing and fostering
+charity care in the surgeon workforce." Annals of Surgery. Jul 2011, 254,
+(1), 169 - 173. DOI: 10.1097/SLA.0b013e31821970e9
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf
+
+21. Yu, Hao; Ashwood, Scott; Vogt, William; Escarce, Jose J.; Keeler,
+Emmett, "Modeling Physician Supply, and the Impacts of Health Reform."
+Presented at the American Society of Health Economists, Philadelphia, PA,
+Jun 13, 2016.
+Full text PDF: http://www-ncbi-nlm-nih-gov.proxy.lib.umich.edu/pmc/articles/PMC3044025/pdf/PCD81A14.pdf

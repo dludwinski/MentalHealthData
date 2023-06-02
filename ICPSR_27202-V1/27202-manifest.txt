@@ -1,0 +1,62 @@
+File Manifest for ICPSR 27202
+
+Center for Studying Health System Change. Health Tracking Physician Survey,
+2008 [United States]. ICPSR27202-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2010-02-16.
+http://doi.org/10.3886/ICPSR27202.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27202-descriptioncitation.pdf       -       -         -       2014-07-04  -
+
+    27202-related_literature.txt        -       -         -       daily       -
+
+    27202-manifest.txt                  -       -         -       daily       -
+
+    27202-Report.pdf                    -       -         -       2010-02-16  1f8588b36b17b0f406f8a68ede18084b
+
+
+DS0001 Public-Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27202-0001-Codebook.pdf             -       -         -       2010-02-16  33996e1777a8d3dbf8b0f263a7f8a297
+
+    27202-0001-Data.txt                 444     4,720     212     2010-02-16  a42f78bba665804fd91807b438ff3fac
+
+    27202-0001-Record_layout.txt        -       -         -       2010-02-16  dd7e269c25569f6fb1e2f9e275f2f777
+
+    27202-0001-Setup.dct                -       -         -       2010-02-16  62eee4a83e50a002476a4d72ff563a00
+
+    27202-0001-Setup.do                 -       -         -       2010-02-16  01f30c3c6afa5b9972e36a97c9f3f4b4
+
+    27202-0001-Setup.sas                -       -         -       2010-02-16  791d2731a26c7332fd071620713fe5bd
+
+    27202-0001-Setup.sps                -       -         -       2010-02-16  d2884286d2699ac5985047ed458ede8a
+
+    27202-0001-User_guide.pdf           -       -         -       2010-08-17  4ef0317489d05244a5f4b0a7532cd7b4
+
+
+DS0002 Restricted-Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27202-0002-Codebook.pdf             -       -         -       2010-02-16  94cb97c1bc49e187d0afdaa6c247d0c2
+
+    27202-0002-Record_layout.txt        -       -         -       2010-02-16  202d16a9c69fc852969fdde4eeae757a
+
+    27202-0002-User_guide.pdf           -       -         -       2010-08-17  20c5dc23951fe420bf3334606f0c5e34
+
+
+Version History
+
+2010-08-17 The principal investigator revised the table heading in Appendix
+B of the public- and restricted-use user guides.

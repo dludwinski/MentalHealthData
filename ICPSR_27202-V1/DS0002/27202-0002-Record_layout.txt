@@ -1,0 +1,302 @@
+                       Record Layout for ICPSR 27202
+
+          Health Tracking Physician Survey, 2008: [United States]
+
+                     Dataset 0002: Restricted-Use Data
+ 
+
+VARNAME    VARTYPE ASCIIFMT START END   LABEL
+PHYSIDX    NUM     6.0      1     6     PH5:Physician id number, masked
+BIRTH      NUM     4.0      7     10    AMA:Birth year
+GENDER     NUM     2.0      11    12    PH5:AMA:Sex,1-Male,2-Female
+GRAD_YR    NUM     4.0      13    16    AMA:Med School Graduation year
+IMGSTAT    NUM     2.0      17    18    PH5:CV:Country of Medical School
+IMGUSPR    NUM     2.0      19    20    PH5:CV:Foreign Medical School Graduate
+STATE      CHAR    2        21    22    AMA:State code
+FIPSCODE   CHAR    5        23    27    AMA:FIPS state+county code
+CENREG     NUM     2.0      28    29    AMA:Census region
+CENDIV     NUM     2.0      30    31    AMA:Census division
+UICS       NUM     2.0      32    33    PH5:CV:Urban Influence Codes, 2003
+RCARSAT    NUM     2.0      34    35    PH5:1.Overall Career satisfaction
+YRBGN      NUM     4.0      36    39    PH5:2.Year began practicing medicine
+YRPRAC     NUM     2.0      40    41    PH5:CV:Number of Years in practice
+PRIMSPC    NUM     2.0      42    43    PH5:3.Primary Specialty
+SPCLTY     CHAR    3        44    46    AMA:Specialty code
+PCP        NUM     2.0      47    48    HP5:CV:Primary care physician
+SPEC       NUM     2.0      49    50    PH5:CV:7-cat speciality
+BDCTPSP    NUM     2.0      51    52    PH5:4.Board-certified in prim specialty?
+PTYPE      NUM     2.0      53    54    PH5:5.Practice type where spend most tme
+_PTYPE     NUM     2.0      55    56    PH5:Imputation flag for PTYPE
+PRCTYPE    NUM     2.0      57    58    PH5:CV: Practice type, edited
+SETTING    NUM     2.0      59    60    PH5:5a.Setting where spend most time
+_SETTING   NUM     2.0      61    62    PH5:Imputation flag for SETTING
+OWNPR      NUM     2.0      63    64    PH5:6.Ownershp status in main practice
+_OWNPR     NUM     2.0      65    66    PH5:Imputation flag for OWNPR
+PHYSOWN    NUM     2.0      67    68    PH5:6a.Ownership interest, Oth physician
+_PHYSOWN   NUM     2.0      69    70    PH5:Imputation flag for PHYSOWN
+PRACOWN    NUM     2.0      71    72    PH5:6a.Ownership interest, Anthr practce
+_PRACOWN   NUM     2.0      73    74    PH5:Imputation flag for PRACOWN
+HOSPOWN    NUM     2.0      75    76    PH5:6a.Ownership interest, A hospital
+_HOSPOWN   NUM     2.0      77    78    PH5:Imputation flag for HOSPOWN
+INSROWN    NUM     2.0      79    80    PH5:6a.Ownership interest, Insur company
+_INSROWN   NUM     2.0      81    82    PH5:Imputation flag for INSROWN
+MSCHOWN    NUM     2.0      83    84    PH5:6a.Ownership interest, Medical school
+_MSCHOWN   NUM     2.0      85    86    PH5:Imputation flag for MSCHOWN
+OTHROWN    NUM     2.0      87    88    PH5:6a.Ownership interest, Other
+_OTHROWN   NUM     2.0      89    90    PH5:Imputation flag for OTHROWN
+GOVENTY    NUM     2.0      91    92    HP5:CV:Government entity
+_GOVENTY   NUM     2.0      93    94    PH5:Imputation flag for GOVENTY
+NPRFORG    NUM     2.0      95    96    HP5:CV:Nonprofit organization
+_NPRFORG   NUM     2.0      97    98    PH5:Imputation flag for NPRFORG
+PRFTORG    NUM     2.0      99    100   HP5:CV:For profit organization
+_PRFTORG   NUM     2.0      101   102   PH5:Imputation flag for PRFTORG
+NPHYPRC    NUM     2.0      103   104   HP5:CV:Nonphysician practice partners
+_NPHYPRC   NUM     2.0      105   106   PH5:Imputation flag for NPHYPRC
+NPHYCAT    NUM     2.0      107   108   PH5:7.Number of phys at practice, catg.
+_NPHYCAT   NUM     2.0      109   110   PH5:Imputation flag for NPHYCAT
+NPHYS      NUM     3.0      111   113   PH5:7a.Number of physicians at practice
+_NPHYS     NUM     2.0      114   115   PH5:Imputation flag for NPHYS
+INCENT     NUM     2.0      116   117   PH5:8.Overall financial incentives
+COMPETE    NUM     2.0      118   119   PH5:9.Competitive situation of practice
+WKSWRK     NUM     2.0      120   121   PH5:10.Weeks practicing medicine in 2006
+_WKSWRK    NUM     2.0      122   123   PH5:Imputation flag for WKSWRK
+HRSPAT     NUM     2.0      124   125   PH5:11a.Hours last week in direct patient care
+_HRSPAT    NUM     2.0      126   127   PH5:Imputation flag for HRSPAT
+HRSADM     NUM     2.0      128   129   PH5:11b.Hours last week in administrative tasks
+_HRSADM    NUM     2.0      130   131   PH5:Imputation flag for HRSADM
+HRSMED     NUM     3.0      132   134   PH5:CV: edited Hours last week, med-related actvty
+_HRSMED    NUM     2.0      135   136   PH5:Imputation flag for HRSMED
+OFFCOPV    NUM     3.0      137   139   PH5:12a.Num visits office & outpat clinic
+_OFFCOPV   NUM     2.0      140   141   PH5:Imputation flag for OFFCOPV
+HOSPV      NUM     3.0      142   144   PH5:12b.Num visits on hospital rounds
+_HOSPV     NUM     2.0      145   146   PH5:Imputation flag for HOSPV
+NURSHMV    NUM     3.0      147   149   PH5:12c.Num visits in nursing homes
+_NURSHMV   NUM     2.0      150   151   PH5:Imputation flag for NRUSHMV
+TMEMLPT    NUM     2.0      152   153   PH5:13a.Time spend e-mail patients
+TMPHNPT    NUM     2.0      154   155   PH5:13b.Time spend phone patients
+TMEMLDR    NUM     2.0      156   157   PH5:13c.Time spend e-mail physicians
+TMPHNDR    NUM     2.0      158   159   PH5:13d.Time spend phone physicians
+RBEMLPT    NUM     2.0      160   161   PH5:14a.Reimbursed: E-mail patients
+RBPHNPT    NUM     2.0      162   163   PH5:14b.Reimbursed: Phone patients
+RBEMLDR    NUM     2.0      164   165   PH5:14c.Reimbursed: E-mail physicians
+RBPHNDR    NUM     2.0      166   167   PH5:14d.Reimbursed: Phone physicians
+HRFREE     NUM     3.0      168   170   PH5:15.Hours last month provide charity care
+_HRFREE    NUM     2.0      171   172   PH5:Imputation flag for HRFREE
+LOCFREE    NUM     2.0      173   174   PH5:15a.Location provide charity care
+BLCKPT     NUM     3.0      175   177   PH5:16a.Pct patient-African American or Black
+_BLCKPT    NUM     2.0      178   179   PH5:Imputation flag for BLCKPT
+HISPPT     NUM     3.0      180   182   PH5:16b.Pct patient-Hispanic or Latino
+_HISPPT    NUM     2.0      183   184   PH5:Imputation flag for HISPPT
+ASIAPT     NUM     3.0      185   187   PH5:16c.Pct patient-Asian or Pacific Islander
+_ASIAPT    NUM     2.0      188   189   PH5:Imputation flag for ASIAPT
+NATVPT     NUM     3.0      190   192   PH5:16d.Pct patient-Native Amer or Alaska Native
+_NATVPT    NUM     2.0      193   194   PH5:Imputation flag for NATVPT
+CHRNPT     NUM     3.0      195   197   PH5:16e.Pct patient-Has chronic condition
+_CHRNPT    NUM     2.0      198   199   PH5:Imputation flag for CHRNPT
+LANGPT     NUM     3.0      200   202   PH5:17.Pct patient-speak differnt languages
+INTPRTR    NUM     2.0      203   204   PH5:18.Practice provd interpreter servce?
+I_LANG     NUM     2.0      205   206   PH5:CV:Summary variable - number of languages
+EDUMNPT    NUM     2.0      207   208   PH5:19.Attend educ improve minority patient hlth?
+IT_TRT     NUM     2.0      209   210   PH5:20aCP.IT avail get info on recmmnded guideline
+IT_TRTX    NUM     2.0      211   212   PH5:20a_1CP.IT used get info on recmmnded guidelne
+IT_TRTU    NUM     2.0      213   214   PH5:CV:IT avail/use get info on recmmnded guideline
+ITDCSN     NUM     2.0      215   216   PH5:20bCP.IT avail get decision support
+ITDCSNX    NUM     2.0      217   218   PH5:20b_1CP.IT used get decision support
+ITDCSNU    NUM     2.0      219   220   PH5:CV:IT avail/use get decision support
+ITRMNDR    NUM     2.0      221   222   PH5:20cCP.IT avail remind clincian on prev service
+ITRMNDRX   NUM     2.0      223   224   PH5:20c_1CP.IT use remind clincian on prev service
+ITRMNDRU   NUM     2.0      225   226   PH5:CV:IT avail/use remind clincian on prev service
+ITDRFUP    NUM     2.0      227   228   PH5:20dCP.IT avail remind clincian on follow-up
+ITDRFUPX   NUM     2.0      229   230   PH5:20d_1CP.IT used remind clnician on follow-up
+ITDRFUPU   NUM     2.0      231   232   PH5:CV:IT avail/use remind clincian on follow-up
+ITRMNPT    NUM     2.0      233   234   PH5:20eCP.IT avail remind patients on prev service
+ITRMNPTX   NUM     2.0      235   236   PH5:20e_1CP.IT used remind patients on prev service
+ITRMNPTU   NUM     2.0      237   238   PH5:CV:IT avail/use remind patients on prev service
+ITCOMM     NUM     2.0      239   240   PH5:20fCP.IT avail communication w/ pat by e-mail
+ITCOMMX    NUM     2.0      241   242   PH5:20f_1CP.IT used communication w/ pat by e-mail
+ITCOMMU    NUM     2.0      243   244   PH5:CV:IT avail/use communication w/ pat by e-mail
+ITNOTES    NUM     2.0      245   246   PH5:20aPI.IT avail to access patient notes
+ITNOTESX   NUM     2.0      247   248   PH5:20a_1PI.IT used to access patient notes
+ITNOTESU   NUM     2.0      249   250   PH5:CV:IT avail/use to access patient notes
+ITTEST     NUM     2.0      251   252   PH5:20bPI.IT avail to order lab, other diag tests
+ITTESTX    NUM     2.0      253   254   PH5:20b_1PI.IT used to order lab, other diag tests
+ITTESTU    NUM     2.0      255   256   PH5:CV:IT avail/use to order lab, other diag tests
+ITRSLT     NUM     2.0      257   258   PH5:20cPI.IT avail view lab, diag test result
+ITRSLTX    NUM     2.0      259   260   PH5:20c_1PI.IT used view lab, diag test result
+ITRSLTU    NUM     2.0      261   262   PH5:CV:IT avail/use view lab, diag test result
+ITCLIN     NUM     2.0      263   264   PH5:20dPI.IT avail exchng clin data w/ other phys
+ITCLINX    NUM     2.0      265   266   PH5:20d_1PI.IT used exchng clin data w/ other phys
+ITCLINU    NUM     2.0      267   268   PH5:CV:IT avail/use exchng clin data w/ other phys
+ITHOSP     NUM     2.0      269   270   PH5:20ePI.IT avail exchg clin data w/ hosp and lab
+ITHOSPX    NUM     2.0      271   272   PH5:20e_1PI.IT use exchg clin data w/ hosp and lab
+ITHOSPU    NUM     2.0      273   274   PH5:CV:IT avail/use exchg clin data w/ hosp and lab
+ITLANG     NUM     2.0      275   276   PH5:20fPI.IT avail access info on pat prefer lang
+ITLANGX    NUM     2.0      277   278   PH5:20f_1PI.IT used access info on pat prefer lang
+ITLANGU    NUM     2.0      279   280   PH5:CV:IT avail/use access info on pat prefer lang
+ITDRUG     NUM     2.0      281   282   PH5:20aPD.IT avail get info on pat RX interaction
+ITDRUGX    NUM     2.0      283   284   PH5:20a_1PD.IT used get info on pat RX interaction
+ITDRUGU    NUM     2.0      285   286   PH5:CV:IT avail/use get info on pat RX interaction
+IT_FORM    NUM     2.0      287   288   PH5:20bPD.IT avail get info on formularies
+IT_FORMX   NUM     2.0      289   290   PH5:20b_1PD.IT used get info on formularies
+IT_FORMU   NUM     2.0      291   292   PH5:CV:IT avail/use get info on formularies
+ITPRESC    NUM     2.0      293   294   PH5:20cPD.IT avail to write prescriptions
+ITPRESCX   NUM     2.0      295   296   PH5:20c_1PD.IT used to write prescriptions
+ITPRESCU   NUM     2.0      297   298   PH5:CV:IT avail/use to write prescriptions
+ITPHRM     NUM     2.0      299   300   PH5:20dPD.IT avail transmit RX to pharmacy
+ITPHRMX    NUM     2.0      301   302   PH5:20d_1PD.IT used transmit RX to pharmacy
+ITPHRMU    NUM     2.0      303   304   PH5:CV:IT avail/use transmit RX to pharmacy
+EMRUSE     NUM     2.0      305   306   PH5:21.Main Practce use Electronic Medical Record?
+ITINCNT    NUM     2.0      307   308   PH5:22.Any financial incentives tied to IT used?
+ERRREPT    NUM     2.0      309   310   PH5:23.Hosp have system to report medical errors?
+HSPLST     NUM     3.0      311   313   PH5:24.Pct of hosplzd pat had hospitalst invloved?
+HSPLSTA    NUM     2.0      314   315   PH5:24.Did not admit patients to hospital last yr
+HSPLSTB    NUM     2.0      316   317   PH5:24.respondent is practicing hospitalst
+INTSVST    NUM     2.0      318   319   PH5:25.Hosp ICU you used covered by intensivists?
+EFGUIDE    NUM     2.0      320   321   PH5:26.Effect of formal writtn guideline
+RADQTIME   NUM     2.0      322   323   PH5:27a.Adequate time spend w/ patients on visit
+RHIGHCAR   NUM     2.0      324   325   PH5:27b.Provide high quality care to all patients
+RPTPCO     NUM     2.0      326   327   PH5:28a_1.Own pat rpt, qual preventive care delry
+RPTPCP     NUM     2.0      328   329   PH5:28a_2.Practce rpt, qual preventive care delry
+RPTCHRO    NUM     2.0      330   331   PH5:28b_1.Own pat rpt, qual care delry to chrn pat
+RPTCHRP    NUM     2.0      332   333   PH5:28b_2.Practce rpt, qual care delry to chrn pat
+RPTDMO     NUM     2.0      334   335   PH5:28c_1.Own pat rpt, pat demographic information
+RPTDMP     NUM     2.0      336   337   PH5:28c_2.Practce rpt, pat demographic information
+RPTETHO    NUM     2.0      338   339   PH5:28d_1.Own pat rpt, qual care delry to dif race
+RPTETHP    NUM     2.0      340   341   PH5:28d_2.Practce rpt, qual care delry to dif race
+RPTLSTO    NUM     2.0      342   343   PH5:28e_1.Own pat rpt, patient lists or registries
+RPTLSTP    NUM     2.0      344   345   PH5:28e_2.Practce rpt, patient lists or registries
+QRPTPGM    NUM     2.0      346   347   PH5:29.Qual reporting prog sponsored by outsde org
+TRASTHM    NUM     2.0      348   349   PH5:30a.Practice routinely treat pat w/ Asthma
+TRDIAB     NUM     2.0      350   351   PH5:30b.Practice routinely treat pat w/ Diabetes
+TRDPRSN    NUM     2.0      352   353   PH5:30c.Practice routinely treat pat w/ Depression
+TRCHF      NUM     2.0      354   355   PH5:30c.Practice routinely treat pat w/ CHF
+GENGAST    NUM     2.0      356   357   PH5:31a_1.Asthma:written guidelines in English
+GENGDIA    NUM     2.0      358   359   PH5:31a_2.Diabetes:written guidelines in English
+GENGDEP    NUM     2.0      360   361   PH5:31a_3.Depression:written guidelines in English
+GENGCHF    NUM     2.0      362   363   PH5:31a_4.CHF:written guidelines in English
+GOTHAST    NUM     2.0      364   365   PH5:31b_1.Asthma:written guidelines in other lang
+GOTHDIA    NUM     2.0      366   367   PH5:31b_2.Diabetes:written guidelnes in other lang
+GOTHDEP    NUM     2.0      368   369   PH5:31b_3.Depression:written guidelines other lang
+GOTHCHF    NUM     2.0      370   371   PH5:31b_4.CHF:written guidelines in other lang
+MNTRAST    NUM     2.0      372   373   PH5:31c_1.Asthma:care manager monitor/coord care
+MNTRDIA    NUM     2.0      374   375   PH5:31c_2.Diabetes:care manager monitor/coord care
+MNTRDEP    NUM     2.0      376   377   PH5:31c_3.Depression:care manager monitor/coord care
+MNTRCHF    NUM     2.0      378   379   PH5:31c_4.CHF:care manager monitor/coordinate care
+EPATAST    NUM     2.0      380   381   PH5:31d_1.Asthma:Non-phys staff to educ patients
+EPATDIA    NUM     2.0      382   383   PH5:31d_2.Diabetes:Non-phys staff to educ patients
+EPATDEP    NUM     2.0      384   385   PH5:31d_3.Depression:Non-phys staff to educ patients
+EPATCHF    NUM     2.0      386   387   PH5:31d_4.CHF:Non-phys staff to educate patients
+GVSTAST    NUM     2.0      388   389   PH5:31e_1.Asthma:Group visits w/ staff provid care
+GVSTDIA    NUM     2.0      390   391   PH5:31e_2.Diabetes:Group visits w/ staff prvd care
+GVSTDEP    NUM     2.0      392   393   PH5:31e_3.Depression:Group visits w/ staff prvd care
+GVSTCHF    NUM     2.0      394   395   PH5:31e_4.CHF:Group visits w/ staff provide care
+DM_PGM     NUM     2.0      396   397   PH5:32.Pats in disease managemnt prog by hlth plan
+DMPOVQC    NUM     2.0      398   399   PH5:32a_1.DMP improve quality of care for chrn pat
+DMPDRQC    NUM     2.0      400   401   PH5:32a_2.DMP improve ability provd high qual care
+KNOWALL    NUM     2.0      402   403   PH5:33a:How often know your pat vsts to other phys
+PCPSEND    NUM     2.0      404   405   PH5:33b.PCP-how often send spec patient history
+PCPGET     NUM     2.0      406   407   PH5:33c.PCP-how often get useful info from spec?
+PCPTALK    NUM     2.0      408   409   PH5:33d.PCP-talk w/ pat about results of spec visit
+SPCGET     NUM     2.0      410   411   PH5:33e.Spec-how often receive pat medical history
+SPCSEND    NUM     2.0      412   413   PH5:33f.Spec-how often send results of consultation
+SELFREF    NUM     2.0      414   415   PH5:33g.How oftn are new pat you see self-referred?
+NOTREFS    NUM     2.0      416   417   PH5:34a.Unable obtained:Referrals high qualty spec
+NOTHOSP    NUM     2.0      418   419   PH5:34b.Unable obtained:Non-emergency hosp admsson
+NOTOUTP    NUM     2.0      420   421   PH5:34c.Unable obtained:Hi qual outpat mental srvc
+NOTINTRP   NUM     2.0      422   423   PH5:34d.Unable obtained:Interpreter services
+FORMLRY    NUM     3.0      424   426   PH5:35.Pct of pats have RX covrge incl formulary?
+_FORMLRY   NUM     2.0      427   428   PH5:Imputation flag for FORMLRY
+GENERIC    NUM     2.0      429   430   PH5:36a.How often do you prescribe a generic RX
+DIAGCST    NUM     2.0      431   432   PH5:36b.If not sure, cnsdr OOP cst in decide test?
+IOPTCST    NUM     2.0      433   434   PH5:36c.Cnsdr OOP cst in decide outpt/inpat care?
+QNOTIME    NUM     2.0      435   436   PH5:37a.Problem:Inadq time with pats during visit
+QPRBPAY    NUM     2.0      437   438   PH5:37b.Problem:Patient unable to pay needed care
+QINSREJ    NUM     2.0      439   440   PH5:37c.Problem:Insurance rejects care decision
+QNOSPEC    NUM     2.0      441   442   PH5:37d.Problem:Lack of qualified spec in area
+QNOREPT    NUM     2.0      443   444   PH5:37e.Problem:Not getting timely rpt from oth dr
+QPRBCOM    NUM     2.0      445   446   PH5:37f.Problem:Comm difficulties due to language
+QNONCMP    NUM     2.0      447   448   PH5:37g.Problm:Pat non-compliance w/ trtmnt recomd
+QERRHSP    NUM     2.0      449   450   PH5:37h.Problem:Medical errors in hospitals
+NWMCARE    NUM     2.0      451   452   PH5:38.Accept new Medicare patients
+_NWMCARE   NUM     2.0      453   454   PH5:Imputation flag for NWMCARE
+MRBILL     NUM     2.0      455   456   PH5:38a.No accept Mcare:billing requirement
+MRAUDIT    NUM     2.0      457   458   PH5:38a.No accept Mcare:concern about audit
+MRREIMB    NUM     2.0      459   460   PH5:38a.No accept Mcare:inadequate reimb
+MRNUFPT    NUM     2.0      461   462   PH5:38a.No accept Mcare:have enough patients
+MRPTBUR    NUM     2.0      463   464   PH5:38a.No accept Mcare:Mcare pat high clin burdn
+NWMCAID    NUM     2.0      465   466   PH5:39. Accept new Medicaid patients
+_NWMCAID   NUM     2.0      467   468   PH5:Imputation flag for NWMCAID
+MDBILL     NUM     2.0      469   470   PH5:39a.No accept Mcaid:billing requirement
+MDDELAY    NUM     2.0      471   472   PH5:39a.No accept Mcaid:delayed reimbursement
+MDREIMB    NUM     2.0      473   474   PH5:39a.No accept Mcaid:inadequate reimb
+MDNUFPT    NUM     2.0      475   476   PH5:39a.No accept Mcaid:have enough patients
+MDPTBUR    NUM     2.0      477   478   PH5:39a.No accept Mcaid:Mcaid pat high clin burdn
+NWPRIV     NUM     2.0      479   480   PH5:40.Accept new privately insured
+_NWPRIV    NUM     2.0      481   482   PH5:Imputation flag for NWPRIV
+PMCARE     NUM     3.0      483   485   PH5:41_A.Pct revenue from Medicare
+_PMCARE    NUM     2.0      486   487   PH5:Imputation flag for PMCARE
+PMCAID     NUM     3.0      488   490   PH5:41_B.Pct revenue from Medicaid
+_PMCAID    NUM     2.0      491   492   PH5:Imputation flag for PMCAID
+PCAPREV    NUM     3.0      493   495   PH5:42.Pct revenue from capitated basis?
+_PCAPREV   NUM     2.0      496   497   PH5:Imputation flag for PCAPREV
+NMCCON     NUM     2.0      498   499   PH5:43.Num of managed care contracts
+_NMCCON    NUM     2.0      500   501   PH5:Imputation flag for NMCCON
+MALWORRY   NUM     2.0      502   503   PH5:44.Concerned be involved malpractice in 10 yrs
+MALDAILY   NUM     2.0      504   505   PH5:44.Pressured by threat of malpractice suits
+MALTESTS   NUM     2.0      506   507   PH5:44.Order tests to avoid malpractice suits
+MALCNSLT   NUM     2.0      508   509   PH5:44.Ask consultant to reduce risk of being sued
+MALCRISK   NUM     2.0      510   511   PH5:44.Rely technology to avoid malpractice suits
+LABOWN     NUM     2.0      512   513   PH5:45a_1.Practice own/lease equipmnt: Lab testing
+LABLOC     NUM     2.0      514   515   PH5:45a_2.Equipment location: Laboratory testing
+XRAYOWN    NUM     2.0      516   517   PH5:45b_1.Practice own or lease equipment: X-rays
+XRAYLOC    NUM     2.0      518   519   PH5:45b_2.Equipment location: X-rays
+IMAGOWN    NUM     2.0      520   521   PH5:45c_1.Practice own/lease equipment:Oth imaging
+IMAGLOC    NUM     2.0      522   523   PH5:45c_2.Equipment location:Oth imaging
+NIVOWN     NUM     2.0      524   525   PH5:45d_1.Practice own/lease: Non-invasive testing
+NIVLOC     NUM     2.0      526   527   PH5:45d_2.Equipment location: Non-invasive testing
+IVPROWN    NUM     2.0      528   529   PH5:45e_1.Practice own/lease: Invasive procedures
+IVPRLOC    NUM     2.0      530   531   PH5:45e_2.Equipment location: Invasive procedures
+LABSOWN    NUM     2.0      532   533   PH5:46a.Self own/lease equipment: Lab testing
+XRAYSOWN   NUM     2.0      534   535   PH5:46b.Self own/lease equipment: X-rays
+IMAGSOWN   NUM     2.0      536   537   PH5:46c.Self own/lease equipment:Oth diag imaging
+NIVSOWN    NUM     2.0      538   539   PH5:46d.Self own/lease equipment:Non-invasive test
+IVPRSOWN   NUM     2.0      540   541   PH5:46e.Self own/lease equipment:Invasive prcdures
+OWNHSP     NUM     2.0      542   543   PH5:47.Main practice own(fully/in part) a hosptal?
+SOWNHSP    NUM     2.0      544   545   PH5:48.Personally own (fully/in part) a hospital?
+COMPTYP    NUM     2.0      546   547   PH5:49.Method describes your basic compensation?
+BONUSR     NUM     2.0      548   549   PH5:50.Eligible for bonus or incentive plan?
+SPROD      NUM     2.0      550   551   PH5:51a_1.Own productivity affects compensation
+IMPPROD    NUM     2.0      552   553   PH5:51a_2.Imprtant for your comp: own productivity
+SSAT       NUM     2.0      554   555   PH5:51b_1.Satisfaction surveys affcts compensation
+IMPSAT     NUM     2.0      556   557   PH5:51b_2.Imprtant for your comp:Satisfaction srvy
+SQUAL      NUM     2.0      558   559   PH5:51c_1.Quality measures affects compensation
+IMPQUAL    NUM     2.0      560   561   PH5:51c_2.Important for your comp:Quality measures
+SPROF      NUM     2.0      562   563   PH5:51d_1.Profiling results affects compensation
+IMPPROF    NUM     2.0      564   565   PH5:51d_2.Imprtant for your comp:Profiling results
+SPERF      NUM     2.0      566   567   PH5:51e_1.Practice performance affect compensation
+IMPPERF    NUM     2.0      568   569   PH5:51e_2.Important for comp: Practice performance
+FREEFD     NUM     2.0      570   571   PH5:52a.From drug companies:Free food/beverages?
+FREERX     NUM     2.0      572   573   PH5:52b.From drug companies:Free drug samples?
+HNSPEAK    NUM     2.0      574   575   PH5:52c.From drug companies:Honoraria for speakng?
+HNSRVY     NUM     2.0      576   577   PH5:52d.From drug companies:Honoraria in surveys?
+PYCNSLT    NUM     2.0      578   579   PH5:52e.From drug companies:Paymnt consulting svc?
+PYTRIAL    NUM     2.0      580   581   PH5:52f.From drug companies:Paymnt clnical trials?
+CSTTRVL    NUM     2.0      582   583   PH5:52g.From drug companies:travel to meeting cst?
+GIFTRX     NUM     2.0      584   585   PH5:52h.From drug companies:Gifts as rsult RX prc?
+GFTTCKT    NUM     2.0      586   587   PH5:52i.From drug companies:Complementary tickets?
+CMECRDT    NUM     2.0      588   589   PH5:52j.Frm drug companies:Adm to conf CME credits
+MRELCOMP   NUM     2.0      590   591   PH5:53.Total value received from drug companies
+INCCAT     NUM     2.0      592   593   PH5:54.Net income from practice of medicine, catg
+_INCCAT    NUM     2.0      594   595   PH5:Imputation flag for INCCAT
+INCPROD    NUM     2.0      596   597   PH5:55.Pct net income based on your productivity?
+HISP       NUM     2.0      598   599   PH5:56.Consider yourself to be of Hispanic origin?
+RACE_WHT   NUM     2.0      600   601   PH5:57.Race: White
+RACE_BLK   NUM     2.0      602   603   PH5:57.Race: Black or African-American
+RACE_ASN   NUM     2.0      604   605   PH5:57.Race: Asian or Pacific Islander
+RACE_NTV   NUM     2.0      606   607   PH5:57.Race: Native American or Alaska Native
+RACE_OTH   NUM     2.0      608   609   PH5:57.Race: Other
+RACETHN    NUM     2.0      610   611   PH5:CV.Race/ethnicity
+ADM_PAT    NUM     2.0      612   613   PH5:60.Flag for not admitting patients
+STRATA     NUM     3.0      614   616   PH5:CV:Sampling strata
+NFSU       NUM     8.0      617   624   PH5:Sampling unit
+WEIGHT     NUM     10.6     625   634   PH5:CV:Analysis Weight
